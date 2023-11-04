@@ -35,6 +35,7 @@ function addItems(item)
 {
   
   dispatch(add_to_cart(item))
+  alert("Item added to cart")
   
  
   
